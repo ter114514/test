@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 5a2c77a34205cff408531320027ff476
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4359964191209828174
+    second: BLUEslime-DEAD_0
+  - first:
+      213: 5357975530166427460
+    second: BLUEslime-DEAD_1
+  - first:
+      213: 4052533233886258655
+    second: BLUEslime-DEAD_2
+  - first:
+      213: -2220954475542427733
+    second: BLUEslime-DEAD_3
+  - first:
+      213: -2691454711917002678
+    second: BLUEslime-DEAD_4
+  - first:
+      213: -8218871844325248165
+    second: BLUEslime-DEAD_5
+  - first:
+      213: 8146221597394813138
+    second: BLUEslime-DEAD_6
+  - first:
+      213: 3866851541223717443
+    second: BLUEslime-DEAD_7
+  - first:
+      213: -3167582781260284175
+    second: BLUEslime-DEAD_8
+  - first:
+      213: 2256018457147726387
+    second: BLUEslime-DEAD_9
+  - first:
+      213: -6982986675851827261
+    second: BLUEslime-DEAD_10
+  - first:
+      213: 4643536313506015833
+    second: BLUEslime-DEAD_11
+  - first:
+      213: -7670371064666861885
+    second: BLUEslime-DEAD_12
+  - first:
+      213: -3274098110288690964
+    second: BLUEslime-DEAD_13
+  - first:
+      213: 6878743942303078889
+    second: BLUEslime-DEAD_14
+  - first:
+      213: -7805015212284747880
+    second: BLUEslime-DEAD_15
+  - first:
+      213: -1655288409255021322
+    second: BLUEslime-DEAD_16
+  - first:
+      213: 5836468377502628771
+    second: BLUEslime-DEAD_17
+  - first:
+      213: 822686927587491420
+    second: BLUEslime-DEAD_18
+  - first:
+      213: 8924669970721693394
+    second: BLUEslime-DEAD_19
+  - first:
+      213: -4053492474255823214
+    second: BLUEslime-DEAD_20
+  - first:
+      213: 9142245981203214821
+    second: BLUEslime-DEAD_21
+  - first:
+      213: 3118998586994239707
+    second: BLUEslime-DEAD_22
+  - first:
+      213: -7548363695650070812
+    second: BLUEslime-DEAD_23
+  - first:
+      213: 7419402989249375131
+    second: BLUEslime-DEAD_24
+  - first:
+      213: 5495573258310248458
+    second: BLUEslime-DEAD_25
+  - first:
+      213: -621908814806274071
+    second: BLUEslime-DEAD_26
+  - first:
+      213: -92132148132404425
+    second: BLUEslime-DEAD_27
+  - first:
+      213: -1150034696604799429
+    second: BLUEslime-DEAD_28
+  - first:
+      213: 8736709046417754352
+    second: BLUEslime-DEAD_29
+  - first:
+      213: 6750084223709909034
+    second: BLUEslime-DEAD_30
+  - first:
+      213: -601459466352226524
+    second: BLUEslime-DEAD_31
+  - first:
+      213: 8089927434306760111
+    second: BLUEslime-DEAD_32
+  - first:
+      213: -4503346067225018057
+    second: BLUEslime-DEAD_33
+  - first:
+      213: -6463677348395262218
+    second: BLUEslime-DEAD_34
+  - first:
+      213: 2950362432456543500
+    second: BLUEslime-DEAD_35
+  - first:
+      213: 7694021113470812617
+    second: BLUEslime-DEAD_36
+  - first:
+      213: 6429905998283357787
+    second: BLUEslime-DEAD_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUEslime-DEAD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f2c72f454b18c30800000000000000
+      internalID: 4359964191209828174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-DEAD_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f1ece5b5a5b5a40800000000000000
+      internalID: 5357975530166427460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-DEAD_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56146418d7d3830800000000000000
+      internalID: 4052533233886258655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-DEAD_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7cafeeba59d21e0800000000000000
+      internalID: -2220954475542427733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-DEAD_4
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 0
+        width: 640
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c22f033806aad0800000000000000
+      internalID: -2691454711917002678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-DEAD_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b8806a93b0fd80800000000000000
+      internalID: -8218871844325248165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-DEAD_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 640
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0455ed1613d0170800000000000000
+      internalID: 8146221597394813138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b38481f3e6d429f4ea94c5a8604d30af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BLUEslime-DEAD_0: 4359964191209828174
+      BLUEslime-DEAD_1: 5357975530166427460
+      BLUEslime-DEAD_2: 4052533233886258655
+      BLUEslime-DEAD_3: -2220954475542427733
+      BLUEslime-DEAD_4: -2691454711917002678
+      BLUEslime-DEAD_5: -8218871844325248165
+      BLUEslime-DEAD_6: 8146221597394813138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
