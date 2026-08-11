@@ -512,11 +512,11 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 34
+  near clip plane: 0.1
+  far clip plane: 5000
+  field of view: 40
   orthographic: 1
-  orthographic size: 32.674347
+  orthographic size: 30
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -541,7 +541,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.57, y: 24.61974, z: -11}
+  m_LocalPosition: {x: 0.57, y: 21.55, z: -11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1792,7 +1792,7 @@ MonoBehaviour:
   CameraDistance: 10
   DeadZoneDepth: 0
   Composition:
-    ScreenPosition: {x: 0, y: 0.2}
+    ScreenPosition: {x: 0, y: 0}
     DeadZone:
       Enabled: 0
       Size: {x: 0.2, y: 0.2}
@@ -1801,8 +1801,8 @@ MonoBehaviour:
       Size: {x: 0.8, y: 0.8}
       Offset: {x: 0, y: 0}
   CenterOnActivate: 1
-  TargetOffset: {x: 0, y: 0, z: 0}
-  Damping: {x: 1, y: 1, z: 1}
+  TargetOffset: {x: 0, y: 10, z: 0}
+  Damping: {x: 1, y: 1, z: 0}
   Lookahead:
     Enabled: 0
     Time: 0
@@ -1832,10 +1832,10 @@ MonoBehaviour:
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
-    FieldOfView: 34
-    OrthographicSize: 32.674347
-    NearClipPlane: 0.3
-    FarClipPlane: 1000
+    FieldOfView: 40
+    OrthographicSize: 30
+    NearClipPlane: 0.1
+    FarClipPlane: 5000
     Dutch: 0
     ModeOverride: 0
     PhysicalProperties:
@@ -1860,7 +1860,7 @@ Transform:
   m_GameObject: {fileID: 1401287353}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.57, y: 24.61974, z: -11}
+  m_LocalPosition: {x: 0.57, y: 21.55, z: -11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2710,7 +2710,7 @@ MonoBehaviour:
   attackRange: 7
   enemyLayers:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 256
   attackDamage: 1
 --- !u!114 &1487881583
 MonoBehaviour:
@@ -2735,7 +2735,7 @@ MonoBehaviour:
   drainDamageToEnemy: 1
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 256
   zeroBloodDotDamage: 1
   berserkDamageMultiplier: 1.5
   currentState: 1
@@ -2761,7 +2761,7 @@ MonoBehaviour:
   teleportOffset: 10
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 256
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -2805,7 +2805,7 @@ MonoBehaviour:
   burstRadius: 50
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 256
   invincibleDuration: 5
   burstVFXPrefab: {fileID: 0}
 --- !u!114 &1487881587
@@ -2827,7 +2827,7 @@ MonoBehaviour:
   attackBoxOffset: {x: 0, y: 0}
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 256
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -2852,7 +2852,7 @@ MonoBehaviour:
   invincibilityTime: 0.3
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
 --- !u!114 &1487881589
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2878,7 +2878,7 @@ MonoBehaviour:
   pullSpeed: 100
   grappleMechanismLayer:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 8
   grappleLine: {fileID: 0}
 --- !u!1 &1489093240
 GameObject:
@@ -2925,7 +2925,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1494631889}
   - component: {fileID: 1494631890}
-  m_Layer: 9
+  m_Layer: 3
   m_Name: Grapple
   m_TagString: Untagged
   m_Icon: {fileID: 0}

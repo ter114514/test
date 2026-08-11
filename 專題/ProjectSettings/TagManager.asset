@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Monsters
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Grapple
   - Water
   - UI
   - Ground
