@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 5da7d503f481349458b92a4068a117d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2220322095432284347
+    second: MAN_ATTACK_0
+  - first:
+      213: 7319243164368305811
+    second: MAN_ATTACK_1
+  - first:
+      213: 8207994556729288051
+    second: MAN_ATTACK_2
+  - first:
+      213: 8089433601852541433
+    second: MAN_ATTACK_3
+  - first:
+      213: -389866758193990120
+    second: MAN_ATTACK_4
+  - first:
+      213: 7642073189771653705
+    second: MAN_ATTACK_5
+  - first:
+      213: 6926972311293147504
+    second: MAN_ATTACK_6
+  - first:
+      213: -501865295354722926
+    second: MAN_ATTACK_7
+  - first:
+      213: -8789867944645767814
+    second: MAN_ATTACK_8
+  - first:
+      213: 5951592797259475904
+    second: MAN_ATTACK_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 260
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAN_ATTACK_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 413
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547cec661d4df21e0800000000000000
+      internalID: -2220322095432284347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 48
+        width: 413
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef0e401ec239560800000000000000
+      internalID: 7319243164368305811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_2
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 36
+        width: 512
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3756030cf87a8e170800000000000000
+      internalID: 8207994556729288051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_3
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 36
+        width: 433
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f987805001734070800000000000000
+      internalID: 8089433601852541433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_4
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 36
+        width: 436
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8163d10cf3ae69af0800000000000000
+      internalID: -389866758193990120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_5
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 36
+        width: 382
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94230ef93191e0a60800000000000000
+      internalID: 7642073189771653705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_6
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 36
+        width: 574
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079389fcd9c812060800000000000000
+      internalID: 6926972311293147504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_7
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 36
+        width: 435
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29509414c240909f0800000000000000
+      internalID: -501865295354722926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_8
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 67
+        width: 104
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dcbc0dcad140680800000000000000
+      internalID: -8789867944645767814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAN_ATTACK_9
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 36
+        width: 405
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbac60cd1e489250800000000000000
+      internalID: 5951592797259475904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a614b42d3a80dc142a50a3ab5a45aca2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MAN_ATTACK_0: -2220322095432284347
+      MAN_ATTACK_1: 7319243164368305811
+      MAN_ATTACK_2: 8207994556729288051
+      MAN_ATTACK_3: 8089433601852541433
+      MAN_ATTACK_4: -389866758193990120
+      MAN_ATTACK_5: 7642073189771653705
+      MAN_ATTACK_6: 6926972311293147504
+      MAN_ATTACK_7: -501865295354722926
+      MAN_ATTACK_8: -8789867944645767814
+      MAN_ATTACK_9: 5951592797259475904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

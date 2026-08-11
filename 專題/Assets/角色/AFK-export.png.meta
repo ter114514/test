@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: d9fc7fa423e008146b829faf283a3bc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6797856637185124300
+    second: AFK-export_0
+  - first:
+      213: 4443640541515807310
+    second: AFK-export_1
+  - first:
+      213: 767157987265684053
+    second: AFK-export_2
+  - first:
+      213: -1118019937566176477
+    second: AFK-export_3
+  - first:
+      213: -6290182840332495688
+    second: AFK-export_4
+  - first:
+      213: -7359382724512885016
+    second: AFK-export_5
+  - first:
+      213: -8426402233828999243
+    second: AFK-export_6
+  - first:
+      213: -3286974667364071753
+    second: AFK-export_7
+  - first:
+      213: -2664554740201467126
+    second: AFK-export_8
+  - first:
+      213: 5319026594404447835
+    second: AFK-export_9
+  - first:
+      213: -1661218076234953431
+    second: AFK-export_10
+  - first:
+      213: -7588487286254092747
+    second: AFK-export_11
+  - first:
+      213: 3058350737875518717
+    second: AFK-export_12
+  - first:
+      213: -6694326825832437394
+    second: AFK-export_13
+  - first:
+      213: -3269017508201898547
+    second: AFK-export_14
+  - first:
+      213: 1175269551393164193
+    second: AFK-export_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 325
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AFK-export_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 342
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7637d4896d65e50800000000000000
+      internalID: 6797856637185124300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af292778bfaad30800000000000000
+      internalID: 4443640541515807310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_2
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 0
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5522395ff1e75aa00800000000000000
+      internalID: 767157987265684053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_3
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 0
+        width: 342
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b40915acefb70f0800000000000000
+      internalID: -1118019937566176477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_4
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 0
+        width: 342
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b459b59808c4b8a0800000000000000
+      internalID: -6290182840332495688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_5
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6534b57683ed990800000000000000
+      internalID: -7359382724512885016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_6
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 0
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf701630d76f0b80800000000000000
+      internalID: -8426402233828999243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_7
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 0
+        width: 342
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b68e0684f15262d0800000000000000
+      internalID: -3286974667364071753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_8
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 0
+        width: 342
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0355b9c499950bd0800000000000000
+      internalID: -2664554740201467126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_9
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 0
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b563556918af0d940800000000000000
+      internalID: 5319026594404447835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_10
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 0
+        width: 342
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dce8f06fa22f8e0800000000000000
+      internalID: -1661218076234953431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_11
+      rect:
+        serializedVersion: 2
+        x: 5389
+        y: 0
+        width: 342
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb148c40740b690800000000000000
+      internalID: -7588487286254092747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_12
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 0
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4cf91dac1717a20800000000000000
+      internalID: 3058350737875518717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_13
+      rect:
+        serializedVersion: 2
+        x: 6339
+        y: 0
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a3ef4839f813a0800000000000000
+      internalID: -6694326825832437394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_14
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 0
+        width: 342
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd71375ed12a2d0800000000000000
+      internalID: -3269017508201898547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AFK-export_15
+      rect:
+        serializedVersion: 2
+        x: 7309
+        y: 0
+        width: 342
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab4f1e1e656f4010800000000000000
+      internalID: 1175269551393164193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AFK-export_0: 6797856637185124300
+      AFK-export_1: 4443640541515807310
+      AFK-export_10: -1661218076234953431
+      AFK-export_11: -7588487286254092747
+      AFK-export_12: 3058350737875518717
+      AFK-export_13: -6694326825832437394
+      AFK-export_14: -3269017508201898547
+      AFK-export_15: 1175269551393164193
+      AFK-export_2: 767157987265684053
+      AFK-export_3: -1118019937566176477
+      AFK-export_4: -6290182840332495688
+      AFK-export_5: -7359382724512885016
+      AFK-export_6: -8426402233828999243
+      AFK-export_7: -3286974667364071753
+      AFK-export_8: -2664554740201467126
+      AFK-export_9: 5319026594404447835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

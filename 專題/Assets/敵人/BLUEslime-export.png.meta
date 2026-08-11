@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: 065957c0fd0529744ba2c62ec5305bfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2227856089008784234
+    second: BLUEslime-export_0
+  - first:
+      213: 2017987838764935175
+    second: BLUEslime-export_1
+  - first:
+      213: 6547579265350244946
+    second: BLUEslime-export_2
+  - first:
+      213: 6585463766833301716
+    second: BLUEslime-export_3
+  - first:
+      213: -7059325361318478233
+    second: BLUEslime-export_4
+  - first:
+      213: -6047545014206684841
+    second: BLUEslime-export_5
+  - first:
+      213: 6639242433113367599
+    second: BLUEslime-export_6
+  - first:
+      213: 5975551871953287893
+    second: BLUEslime-export_7
+  - first:
+      213: -4246114658755131870
+    second: BLUEslime-export_8
+  - first:
+      213: 3521103777569967344
+    second: BLUEslime-export_9
+  - first:
+      213: 2492801872939480914
+    second: BLUEslime-export_10
+  - first:
+      213: 2301182036321091958
+    second: BLUEslime-export_11
+  - first:
+      213: -5643847160838874088
+    second: BLUEslime-export_12
+  - first:
+      213: 8922392242704515909
+    second: BLUEslime-export_13
+  - first:
+      213: 958337002074933803
+    second: BLUEslime-export_14
+  - first:
+      213: -1014553792009503684
+    second: BLUEslime-export_15
+  - first:
+      213: -5653130727955919092
+    second: BLUEslime-export_16
+  - first:
+      213: -4721946875015379091
+    second: BLUEslime-export_17
+  - first:
+      213: 2960299245414526264
+    second: BLUEslime-export_18
+  - first:
+      213: 6868645599353572691
+    second: BLUEslime-export_19
+  - first:
+      213: 1129740102945543067
+    second: BLUEslime-export_20
+  - first:
+      213: -2095916715648933495
+    second: BLUEslime-export_21
+  - first:
+      213: 5835627857540391832
+    second: BLUEslime-export_22
+  - first:
+      213: -2478833675446651963
+    second: BLUEslime-export_23
+  - first:
+      213: -827201696441836721
+    second: BLUEslime-export_24
+  - first:
+      213: 434157254099635387
+    second: BLUEslime-export_25
+  - first:
+      213: 6403056194512711563
+    second: BLUEslime-export_26
+  - first:
+      213: 5483806789029675092
+    second: BLUEslime-export_27
+  - first:
+      213: -2369087682517920315
+    second: BLUEslime-export_28
+  - first:
+      213: -3063332125789261151
+    second: BLUEslime-export_29
+  - first:
+      213: 4734611161900275487
+    second: BLUEslime-export_30
+  - first:
+      213: -1212320941106679822
+    second: BLUEslime-export_31
+  - first:
+      213: -6328753481634772919
+    second: BLUEslime-export_32
+  - first:
+      213: -1798006667873523500
+    second: BLUEslime-export_33
+  - first:
+      213: -8746049802668743718
+    second: BLUEslime-export_34
+  - first:
+      213: -526415628805897856
+    second: BLUEslime-export_35
+  - first:
+      213: -3715171748628524539
+    second: BLUEslime-export_36
+  - first:
+      213: -3354676279519705353
+    second: BLUEslime-export_37
+  - first:
+      213: 2167905196389561576
+    second: BLUEslime-export_38
+  - first:
+      213: 3481611198297238997
+    second: BLUEslime-export_39
+  - first:
+      213: -6862490149641220309
+    second: BLUEslime-export_40
+  - first:
+      213: 6574009959028859959
+    second: BLUEslime-export_41
+  - first:
+      213: -1492051490323081362
+    second: BLUEslime-export_42
+  - first:
+      213: 2247156291462068598
+    second: BLUEslime-export_43
+  - first:
+      213: -4556306986535675770
+    second: BLUEslime-export_44
+  - first:
+      213: 2739069916088961942
+    second: BLUEslime-export_45
+  - first:
+      213: 2110425624827679532
+    second: BLUEslime-export_46
+  - first:
+      213: 6213412714606586709
+    second: BLUEslime-export_47
+  - first:
+      213: -1363639718616057981
+    second: BLUEslime-export_48
+  - first:
+      213: 5136310462930559472
+    second: BLUEslime-export_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUEslime-export_0
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 1294
+        width: 458
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a634f0c2f4feaee10800000000000000
+      internalID: 2227856089008784234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_1
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 1315
+        width: 469
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70864a26f35510c10800000000000000
+      internalID: 2017987838764935175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1349
+        width: 322
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f242c6311d3532c50800000000000000
+      internalID: 6639242433113367599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1349
+        width: 322
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da32b884cc6de250800000000000000
+      internalID: 5975551871953287893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_8
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1297
+        width: 397
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2264259f635c215c0800000000000000
+      internalID: -4246114658755131870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_10
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1349
+        width: 322
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2577cf39816389220800000000000000
+      internalID: 2492801872939480914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_11
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1349
+        width: 322
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671cd6eaed07fef10800000000000000
+      internalID: 2301182036321091958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 709
+        width: 202
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4f5814a42f51e10800000000000000
+      internalID: 2167905196389561576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_39
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 709
+        width: 242
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd678040fa215030800000000000000
+      internalID: 3481611198297238997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_40
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 729
+        width: 232
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f8404619983c0a0800000000000000
+      internalID: -6862490149641220309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_41
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 729
+        width: 332
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734abc52a339b3b50800000000000000
+      internalID: 6574009959028859959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_42
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 719
+        width: 212
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6753b4231b2b4be0800000000000000
+      internalID: -1492051490323081362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_43
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 709
+        width: 222
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679716bbdb08f2f10800000000000000
+      internalID: 2247156291462068598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_44
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 709
+        width: 202
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68819e3afeeb4c0c0800000000000000
+      internalID: -4556306986535675770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_45
+      rect:
+        serializedVersion: 2
+        x: 4679
+        y: 709
+        width: 202
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b01739391230620800000000000000
+      internalID: 2739069916088961942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 69
+        width: 202
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c235cbc9cecb94d10800000000000000
+      internalID: 2110425624827679532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_47
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 69
+        width: 202
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b6501a1f97a3650800000000000000
+      internalID: 6213412714606586709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_48
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 69
+        width: 222
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387b64a96e0631de0800000000000000
+      internalID: -1363639718616057981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUEslime-export_49
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 69
+        width: 202
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f129171727d74740800000000000000
+      internalID: 5136310462930559472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BLUEslime-export_0: 2227856089008784234
+      BLUEslime-export_1: 2017987838764935175
+      BLUEslime-export_10: 2492801872939480914
+      BLUEslime-export_11: 2301182036321091958
+      BLUEslime-export_12: -5643847160838874088
+      BLUEslime-export_13: 8922392242704515909
+      BLUEslime-export_14: 958337002074933803
+      BLUEslime-export_15: -1014553792009503684
+      BLUEslime-export_16: -5653130727955919092
+      BLUEslime-export_17: -4721946875015379091
+      BLUEslime-export_18: 2960299245414526264
+      BLUEslime-export_19: 6868645599353572691
+      BLUEslime-export_2: 6547579265350244946
+      BLUEslime-export_20: 1129740102945543067
+      BLUEslime-export_21: -2095916715648933495
+      BLUEslime-export_22: 5835627857540391832
+      BLUEslime-export_23: -2478833675446651963
+      BLUEslime-export_24: -827201696441836721
+      BLUEslime-export_25: 434157254099635387
+      BLUEslime-export_26: 6403056194512711563
+      BLUEslime-export_27: 5483806789029675092
+      BLUEslime-export_28: -2369087682517920315
+      BLUEslime-export_29: -3063332125789261151
+      BLUEslime-export_3: 6585463766833301716
+      BLUEslime-export_30: 4734611161900275487
+      BLUEslime-export_31: -1212320941106679822
+      BLUEslime-export_32: -6328753481634772919
+      BLUEslime-export_33: -1798006667873523500
+      BLUEslime-export_34: -8746049802668743718
+      BLUEslime-export_35: -526415628805897856
+      BLUEslime-export_36: -3715171748628524539
+      BLUEslime-export_37: -3354676279519705353
+      BLUEslime-export_38: 2167905196389561576
+      BLUEslime-export_39: 3481611198297238997
+      BLUEslime-export_4: -7059325361318478233
+      BLUEslime-export_40: -6862490149641220309
+      BLUEslime-export_41: 6574009959028859959
+      BLUEslime-export_42: -1492051490323081362
+      BLUEslime-export_43: 2247156291462068598
+      BLUEslime-export_44: -4556306986535675770
+      BLUEslime-export_45: 2739069916088961942
+      BLUEslime-export_46: 2110425624827679532
+      BLUEslime-export_47: 6213412714606586709
+      BLUEslime-export_48: -1363639718616057981
+      BLUEslime-export_49: 5136310462930559472
+      BLUEslime-export_5: -6047545014206684841
+      BLUEslime-export_6: 6639242433113367599
+      BLUEslime-export_7: 5975551871953287893
+      BLUEslime-export_8: -4246114658755131870
+      BLUEslime-export_9: 3521103777569967344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
